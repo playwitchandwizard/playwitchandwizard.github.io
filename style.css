@@ -1074,6 +1074,7 @@ footer > p {
   position: relative;
   display: flex;
   justify-content: center;
+  margin-left: -3rem;
 }
 
 .art-composition {
@@ -1141,6 +1142,7 @@ footer > p {
 
 .download-fancy-content {
   color: var(--ink);
+  margin-left: 6rem;
 }
 
 .download-fancy-content .eyebrow {
