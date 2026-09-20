@@ -314,9 +314,9 @@ h1 img {
   right: auto;
   bottom: auto;
   display: block;
-  width: min(420px, 38vw);
+  width: min(470px, 42vw);
   max-width: 100%;
-  margin: auto;
+  margin: -40px -20px auto auto;
   border: 7px solid var(--sun);
   box-shadow: 18px 18px 0 var(--coral), 0 32px 48px rgba(0,0,0,0.45);
   transform: rotate(-4deg);
@@ -726,8 +726,8 @@ h2 {
 }
 
 .final-cover img {
-  width: min(520px, 43vw);
-  margin: 0 auto 0 -8%;
+  width: min(600px, 50vw);
+  margin: 0 auto 0 -18%;
   border: 6px solid var(--sun);
   box-shadow: 18px 18px 0 var(--coral);
   transform: rotate(-3deg);
