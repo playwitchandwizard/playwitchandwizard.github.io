@@ -727,7 +727,7 @@ h2 {
 
 .final-cover img {
   width: min(520px, 43vw);
-  margin: 0 auto;
+  margin: 0 auto 0 -8%;
   border: 6px solid var(--sun);
   box-shadow: 18px 18px 0 var(--coral);
   transform: rotate(-3deg);
